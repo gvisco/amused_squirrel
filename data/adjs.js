@@ -571,7 +571,7 @@ var adjs = [
       "Nonsense",
       "North",
       "Nuanced",
-      "Nuclear"
+      "Nuclear",
       "Occurring",
       "Offensive",
       "Oldest",
@@ -614,7 +614,7 @@ var adjs = [
       "Perceptual",
       "Perky",
       "Permissible",
-      "Permissive"
+      "Permissive",
       "Pernicious",
       "Perpetuate",
       "Perplexed",
